@@ -8,7 +8,7 @@ To get more details, please refer to website: [FTS_Website](https://dlock8.githu
 
 
 
- ![FTS](DOC/Image/FirstTestStation.png)
+ ![FTS](https://github.com/dlock8/FirstTestSation/blob/main/DOC/image/FirstTestStation.png)
 
 
 
